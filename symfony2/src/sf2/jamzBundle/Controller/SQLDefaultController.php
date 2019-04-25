@@ -31,23 +31,23 @@ public static function SQL_crear_cliente($parametros){
     (  
        nombre_cliente, 
        correo_cliente,
-       contrasena_cliente,
+       pass,
        numero1,
        numero2,
-       resultado,
-       cc_cliente  
+       cc_cliente,
+       fecha_modificacion  
        ) 
     VALUES 
       (
       '".$parametros["nombre_cliente"]."',
       '".$parametros["correo_cliente"]."',
-      '".$parametros["contrasena_cliente"]."',
+      '".md5($parametros["pwd"])."',
       ".$parametros["num_1"].",
       ".$parametros["num_2"].",
-      null,
-      ".$parametros["cc_cliente"]."
+      ".$parametros["cc_cliente"].",
+      now()
     )
-    RETURNING cod_cliente,resultado ";
+    RETURNING cod_cliente ";
     return $sql;  
 }
 
@@ -57,7 +57,7 @@ UPDATE clientes
 SET
 nombre_cliente = '".$parametros["nombre_cliente"]."',
 correo_cliente = '".$parametros["correo_cliente"]."',
-contrasena_cliente = '".md5($parametros["correo_cliente"])."',
+pass = '".md5($parametros["pwd"])."',
 numero1 =  ".$parametros["num_1"].",
 numero2 = ".$parametros["num_2"].",
 resultado = $result,

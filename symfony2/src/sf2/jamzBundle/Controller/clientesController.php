@@ -178,7 +178,7 @@ $parametros_formulario = $request->request;
     'cc_cliente' => $request->get('name_idtext_cc_cliente'),
     'nombre_cliente' => $request->get('name_idtext_nombre_cliente'),
     'correo_cliente' => $request->get('name_idtext_correo_cliente'),
-    'contrasena_cliente' => $request->get('name_idtext_contrasena'),
+    'pwd' => $request->get('name_idtext_contrasena'),
     'num_1' => $request->get('name_idtext_num_1'),
     'num_2' => $request->get('name_idtext_num_2'),
     'valor_venta' => $request->get('name_idtext_valor_venta'),
@@ -240,7 +240,7 @@ $parametros_formulario = $request->request;
     {
    #$begin = "BEGIN";
    #$begin = $this->SQL_inicio_transaccion();
-     if ($codigo_cliente == "") {
+    if ($codigo_cliente == "") {
 
     # funcion intval convierte un string a int 
     $cc_cliente = intval($cc_cliente);
