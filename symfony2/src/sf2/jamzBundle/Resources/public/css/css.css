@@ -1,0 +1,85 @@
+#IDGridSolicitudesXRol .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridSolicitudesXRol .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+
+#IDGridListaRequisitosPorPerfilPorConvocatoria .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaRequisitosPorPerfilPorConvocatoria .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridCriteriosDeEvaluacionPorPerfilPorConvocatoria .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridCriteriosDeEvaluacionPorPerfilPorConvocatoria .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaDocumentoPorPerfilPorConvocatoria .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaDocumentoPorPerfilPorConvocatoria .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaInstitucionesConvenio .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaInstitucionesConvenio .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaCondiciones .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaCondiciones .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaCompromisos .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListaCompromisos .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListarBeneficios .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListarBeneficios .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListarCostosAsumidosPorPostulante .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#IDGridListarCostosAsumidosPorPostulante .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#idGridListarOtrasObservaciones .x-grid-row .x-grid-cell-inner {
+    white-space: normal;
+}
+
+#idGridListarOtrasObservaciones .x-grid-row-over .x-grid-cell-inner {
+    white-space: normal;
+}
+
+.cancelacion_materia .x-grid-cell{
+    background-color:#F3F781;
+    color:black;
+}

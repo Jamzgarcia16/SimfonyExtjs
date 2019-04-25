@@ -1,0 +1,3 @@
+sf2jamz:
+    resource: "@sf2jamzBundle/Resources/config/routing.yml"
+    prefix:   /

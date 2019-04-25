@@ -1,0 +1,32 @@
+# Conexion a DB Mysql
+#parameters:
+#    database_driver: pdo_mysql
+#    database_host: 127.0.0.1
+#    database_port: '3306'
+#    database_name: examen
+#    database_user: root
+#    database_password: null
+#    mailer_transport: smtp
+#    mailer_host: 127.0.0.1
+#    mailer_user: null
+#    mailer_password: null
+#    locale: en
+#    secret: 71908ca21909eb3c1ff8f4aaefbe1b1672196d79
+#    database_path: null
+
+# Conexion con Postgresql
+
+parameters:
+    database_driver: pdo_pgsql
+    database_host: 127.0.0.1
+    database_port: '5432'
+    database_name: examen
+    database_user: postgres
+    database_password: 123456
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: postgres
+    mailer_password: 123456
+    locale: en
+    secret: 71908ca21909eb3c1ff8f4aaefbe1b1672196d79
+    database_path: null    

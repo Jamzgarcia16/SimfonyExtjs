@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    {% block stylesheets %}
+    <link rel="stylesheet" type="text/css" href="{{ asset('ext-6.5.0/resources/theme-triton-all.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('bundles/jamzbundle/css/css.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('public/css/estilos.css') }}">
+    {% endblock %}
+
+  </head>
+  <body>
+
+
+<!-- SCRIPT JAVASCRIPT -->
+
+{% block javascript %}
+    <script type="text/javascript" src="{{ asset('ext-6.5.0/build/ext-all.js') }}">
+    </script>
+
+    <script type="text/javascript" src="{{ asset('ext-6.5.0/locale-es.js') }}">
+    </script>
+
+    <script type="text/javascript" src="{{ asset('bundles/jamz/js/funciones_propias.js?param=') }} {{aleatorio}}">
+    </script>  
+    <script type="text/javascript" src="{{ asset('bundles/jamz/js/Model.js?param=') }} {{aleatorio}}">
+    </script>
+    
+    <script type="text/javascript" src="{{ asset('bundles/jamz/js/Store.js?param=') }} {{aleatorio}}"> 
+    </script>
+
+    <script type="text/javascript" src="{{ asset('bundles/jamz/js/formulario_parqueadero/formulario_parqueadero.js?param=') }}{{aleatorio}} }}"></script>
+{% endblock %}
+  </body>
+</html>

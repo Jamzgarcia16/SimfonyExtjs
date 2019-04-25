@@ -1,0 +1,29 @@
+{
+    "framework": "custom",
+    "subjectUrl": "/ext/",
+    "libs": [],
+    "coverageFilters": [],
+    "scenarios": [
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "directory": "../packages/core/test/specs",
+            "page": "packages/core/test/orion.html",
+            "name": "Ext JS Core package unit tests"
+        },
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "directory": "../classic/classic/test/specs",
+            "page": "classic/classic/test/orion.html",
+            "name": "Ext JS Classic toolkit unit tests"
+        },
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "directory": "../modern/modern/test/specs",
+            "page": "modern/modern/test/orion.html",
+            "name": "Ext JS Modern toolkit unit test"
+        }
+    ]
+}

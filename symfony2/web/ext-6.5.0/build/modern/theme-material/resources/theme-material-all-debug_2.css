@@ -1,0 +1,1981 @@
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-bottom::before {
+    content: 'vertical_align_bottom';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-center::before {
+    content: 'vertical_align_center';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-top::before {
+    content: 'vertical_align_top';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wrap-text::before {
+    content: 'wrap_text';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attachment::before {
+    content: 'attachment';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud::before {
+    content: 'cloud';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-circle::before {
+    content: 'cloud_circle';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-done::before {
+    content: 'cloud_done';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-download::before {
+    content: 'cloud_download';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-off::before {
+    content: 'cloud_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-queue::before {
+    content: 'cloud_queue';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-upload::before {
+    content: 'cloud_upload';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-create-new-folder::before {
+    content: 'create_new_folder';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-file-download::before {
+    content: 'file_download';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-file-upload::before {
+    content: 'file_upload';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder::before {
+    content: 'folder';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-open::before {
+    content: 'folder_open';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-shared::before {
+    content: 'folder_shared';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast::before {
+    content: 'cast';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast-connected::before {
+    content: 'cast_connected';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-computer::before {
+    content: 'computer';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-mac::before {
+    content: 'desktop_mac';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-windows::before {
+    content: 'desktop_windows';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-developer-board::before {
+    content: 'developer_board';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-device-hub::before {
+    content: 'device_hub';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-devices-other::before {
+    content: 'devices_other';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dock::before {
+    content: 'dock';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gamepad::before {
+    content: 'gamepad';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset::before {
+    content: 'headset';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset-mic::before {
+    content: 'headset_mic';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard::before {
+    content: 'keyboard';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-down::before {
+    content: 'keyboard_arrow_down';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-left::before {
+    content: 'keyboard_arrow_left';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-right::before {
+    content: 'keyboard_arrow_right';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-up::before {
+    content: 'keyboard_arrow_up';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-backspace::before {
+    content: 'keyboard_backspace';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-capslock::before {
+    content: 'keyboard_capslock';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-hide::before {
+    content: 'keyboard_hide';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-return::before {
+    content: 'keyboard_return';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-tab::before {
+    content: 'keyboard_tab';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-voice::before {
+    content: 'keyboard_voice';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop::before {
+    content: 'laptop';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-chromebook::before {
+    content: 'laptop_chromebook';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-mac::before {
+    content: 'laptop_mac';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-windows::before {
+    content: 'laptop_windows';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-memory::before {
+    content: 'memory';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mouse::before {
+    content: 'mouse';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-android::before {
+    content: 'phone_android';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-iphone::before {
+    content: 'phone_iphone';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink::before {
+    content: 'phonelink';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-off::before {
+    content: 'phonelink_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power-input::before {
+    content: 'power_input';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-router::before {
+    content: 'router';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-scanner::before {
+    content: 'scanner';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-security::before {
+    content: 'security';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card::before {
+    content: 'sim_card';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smartphone::before {
+    content: 'smartphone';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker::before {
+    content: 'speaker';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker-group::before {
+    content: 'speaker_group';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet::before {
+    content: 'tablet';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-android::before {
+    content: 'tablet_android';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-mac::before {
+    content: 'tablet_mac';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-toys::before {
+    content: 'toys';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tv::before {
+    content: 'tv';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-videogame-asset::before {
+    content: 'videogame_asset';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-watch::before {
+    content: 'watch';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-a-photo::before {
+    content: 'add_a_photo';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-to-photos::before {
+    content: 'add_to_photos';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adjust::before {
+    content: 'adjust';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant::before {
+    content: 'assistant';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant-photo::before {
+    content: 'assistant_photo';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-audiotrack::before {
+    content: 'audiotrack';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-circular::before {
+    content: 'blur_circular';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-linear::before {
+    content: 'blur_linear';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-off::before {
+    content: 'blur_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-on::before {
+    content: 'blur_on';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-1::before {
+    content: 'brightness_1';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-2::before {
+    content: 'brightness_2';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-3::before {
+    content: 'brightness_3';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-4::before {
+    content: 'brightness_4';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-5::before {
+    content: 'brightness_5';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-6::before {
+    content: 'brightness_6';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-7::before {
+    content: 'brightness_7';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-broken-image::before {
+    content: 'broken_image';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brush::before {
+    content: 'brush';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-burst-mode::before {
+    content: 'burst_mode';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera::before {
+    content: 'camera';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-alt::before {
+    content: 'camera_alt';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-front::before {
+    content: 'camera_front';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-rear::before {
+    content: 'camera_rear';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-roll::before {
+    content: 'camera_roll';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-strong::before {
+    content: 'center_focus_strong';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-weak::before {
+    content: 'center_focus_weak';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections::before {
+    content: 'collections';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections-bookmark::before {
+    content: 'collections_bookmark';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-color-lens::before {
+    content: 'color_lens';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-colorize::before {
+    content: 'colorize';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-compare::before {
+    content: 'compare';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point::before {
+    content: 'control_point';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point-duplicate::before {
+    content: 'control_point_duplicate';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop::before {
+    content: 'crop';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-16-9::before {
+    content: 'crop_16_9';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-3-2::before {
+    content: 'crop_3_2';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-5-4::before {
+    content: 'crop_5_4';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-7-5::before {
+    content: 'crop_7_5';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-din::before {
+    content: 'crop_din';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-free::before {
+    content: 'crop_free';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-landscape::before {
+    content: 'crop_landscape';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-original::before {
+    content: 'crop_original';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-portrait::before {
+    content: 'crop_portrait';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-rotate::before {
+    content: 'crop_rotate';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-square::before {
+    content: 'crop_square';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dehaze::before {
+    content: 'dehaze';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-details::before {
+    content: 'details';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit::before {
+    content: 'edit';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure::before {
+    content: 'exposure';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-1::before {
+    content: 'exposure_neg_1';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-2::before {
+    content: 'exposure_neg_2';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-1::before {
+    content: 'exposure_plus_1';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-2::before {
+    content: 'exposure_plus_2';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-zero::before {
+    content: 'exposure_zero';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter::before {
+    content: 'filter';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-1::before {
+    content: 'filter_1';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-2::before {
+    content: 'filter_2';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-3::before {
+    content: 'filter_3';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-4::before {
+    content: 'filter_4';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-5::before {
+    content: 'filter_5';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-6::before {
+    content: 'filter_6';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-7::before {
+    content: 'filter_7';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-8::before {
+    content: 'filter_8';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9::before {
+    content: 'filter_9';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9-plus::before {
+    content: 'filter_9_plus';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-b-and-w::before {
+    content: 'filter_b_and_w';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-center-focus::before {
+    content: 'filter_center_focus';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-drama::before {
+    content: 'filter_drama';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-frames::before {
+    content: 'filter_frames';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-hdr::before {
+    content: 'filter_hdr';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-none::before {
+    content: 'filter_none';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-tilt-shift::before {
+    content: 'filter_tilt_shift';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-vintage::before {
+    content: 'filter_vintage';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flare::before {
+    content: 'flare';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-auto::before {
+    content: 'flash_auto';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-off::before {
+    content: 'flash_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-on::before {
+    content: 'flash_on';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flip::before {
+    content: 'flip';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gradient::before {
+    content: 'gradient';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grain::before {
+    content: 'grain';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-off::before {
+    content: 'grid_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-on::before {
+    content: 'grid_on';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-off::before {
+    content: 'hdr_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-on::before {
+    content: 'hdr_on';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-strong::before {
+    content: 'hdr_strong';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-weak::before {
+    content: 'hdr_weak';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-healing::before {
+    content: 'healing';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image::before {
+    content: 'image';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image-aspect-ratio::before {
+    content: 'image_aspect_ratio';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-iso::before {
+    content: 'iso';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-landscape::before {
+    content: 'landscape';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-add::before {
+    content: 'leak_add';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-remove::before {
+    content: 'leak_remove';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-lens::before {
+    content: 'lens';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-linked-camera::before {
+    content: 'linked_camera';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks::before {
+    content: 'looks';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-3::before {
+    content: 'looks_3';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-4::before {
+    content: 'looks_4';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-5::before {
+    content: 'looks_5';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-6::before {
+    content: 'looks_6';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-one::before {
+    content: 'looks_one';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-two::before {
+    content: 'looks_two';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-loupe::before {
+    content: 'loupe';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-monochrome-photos::before {
+    content: 'monochrome_photos';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-creation::before {
+    content: 'movie_creation';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-filter::before {
+    content: 'movie_filter';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-music-note::before {
+    content: 'music_note';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature::before {
+    content: 'nature';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature-people::before {
+    content: 'nature_people';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-before::before {
+    content: 'navigate_before';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-next::before {
+    content: 'navigate_next';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-palette::before {
+    content: 'palette';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama::before {
+    content: 'panorama';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-fish-eye::before {
+    content: 'panorama_fish_eye';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-horizontal::before {
+    content: 'panorama_horizontal';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-vertical::before {
+    content: 'panorama_vertical';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-wide-angle::before {
+    content: 'panorama_wide_angle';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo::before {
+    content: 'photo';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-album::before {
+    content: 'photo_album';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-camera::before {
+    content: 'photo_camera';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-filter::before {
+    content: 'photo_filter';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-library::before {
+    content: 'photo_library';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-actual::before {
+    content: 'photo_size_select_actual';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-large::before {
+    content: 'photo_size_select_large';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-small::before {
+    content: 'photo_size_select_small';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-picture-as-pdf::before {
+    content: 'picture_as_pdf';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-portrait::before {
+    content: 'portrait';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-red-eye::before {
+    content: 'remove_red_eye';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-90-degrees-ccw::before {
+    content: 'rotate_90_degrees_ccw';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-left::before {
+    content: 'rotate_left';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-right::before {
+    content: 'rotate_right';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-slideshow::before {
+    content: 'slideshow';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-straighten::before {
+    content: 'straighten';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-style::before {
+    content: 'style';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-camera::before {
+    content: 'switch_camera';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-video::before {
+    content: 'switch_video';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tag-faces::before {
+    content: 'tag_faces';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-texture::before {
+    content: 'texture';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timelapse::before {
+    content: 'timelapse';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer::before {
+    content: 'timer';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-10::before {
+    content: 'timer_10';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-3::before {
+    content: 'timer_3';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-off::before {
+    content: 'timer_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tonality::before {
+    content: 'tonality';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transform::before {
+    content: 'transform';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tune::before {
+    content: 'tune';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-comfy::before {
+    content: 'view_comfy';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-compact::before {
+    content: 'view_compact';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vignette::before {
+    content: 'vignette';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-auto::before {
+    content: 'wb_auto';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-cloudy::before {
+    content: 'wb_cloudy';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-incandescent::before {
+    content: 'wb_incandescent';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-iridescent::before {
+    content: 'wb_iridescent';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-sunny::before {
+    content: 'wb_sunny';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-location::before {
+    content: 'add_location';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beenhere::before {
+    content: 'beenhere';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions::before {
+    content: 'directions';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bike::before {
+    content: 'directions_bike';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-boat::before {
+    content: 'directions_boat';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bus::before {
+    content: 'directions_bus';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-car::before {
+    content: 'directions_car';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-railway::before {
+    content: 'directions_railway';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-run::before {
+    content: 'directions_run';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-subway::before {
+    content: 'directions_subway';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-transit::before {
+    content: 'directions_transit';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-walk::before {
+    content: 'directions_walk';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit-location::before {
+    content: 'edit_location';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ev-station::before {
+    content: 'ev_station';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flight::before {
+    content: 'flight';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hotel::before {
+    content: 'hotel';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers::before {
+    content: 'layers';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers-clear::before {
+    content: 'layers_clear';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-activity::before {
+    content: 'local_activity';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-airport::before {
+    content: 'local_airport';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-atm::before {
+    content: 'local_atm';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-bar::before {
+    content: 'local_bar';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-cafe::before {
+    content: 'local_cafe';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-car-wash::before {
+    content: 'local_car_wash';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-convenience-store::before {
+    content: 'local_convenience_store';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-dining::before {
+    content: 'local_dining';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-drink::before {
+    content: 'local_drink';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-florist::before {
+    content: 'local_florist';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-gas-station::before {
+    content: 'local_gas_station';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-grocery-store::before {
+    content: 'local_grocery_store';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hospital::before {
+    content: 'local_hospital';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hotel::before {
+    content: 'local_hotel';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-laundry-service::before {
+    content: 'local_laundry_service';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-library::before {
+    content: 'local_library';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-mall::before {
+    content: 'local_mall';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-movies::before {
+    content: 'local_movies';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-offer::before {
+    content: 'local_offer';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-parking::before {
+    content: 'local_parking';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pharmacy::before {
+    content: 'local_pharmacy';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-phone::before {
+    content: 'local_phone';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pizza::before {
+    content: 'local_pizza';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-play::before {
+    content: 'local_play';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-post-office::before {
+    content: 'local_post_office';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-printshop::before {
+    content: 'local_printshop';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-see::before {
+    content: 'local_see';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-shipping::before {
+    content: 'local_shipping';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-taxi::before {
+    content: 'local_taxi';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-map::before {
+    content: 'map';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-my-location::before {
+    content: 'my_location';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigation::before {
+    content: 'navigation';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-near-me::before {
+    content: 'near_me';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin::before {
+    content: 'person_pin';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin-circle::before {
+    content: 'person_pin_circle';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pin-drop::before {
+    content: 'pin_drop';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-place::before {
+    content: 'place';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rate-review::before {
+    content: 'rate_review';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant::before {
+    content: 'restaurant';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant-menu::before {
+    content: 'restaurant_menu';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-satellite::before {
+    content: 'satellite';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-store-mall-directory::before {
+    content: 'store_mall_directory';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-streetview::before {
+    content: 'streetview';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subway::before {
+    content: 'subway';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-terrain::before {
+    content: 'terrain';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-traffic::before {
+    content: 'traffic';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-train::before {
+    content: 'train';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tram::before {
+    content: 'tram';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transfer-within-a-station::before {
+    content: 'transfer_within_a_station';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-zoom-out-map::before {
+    content: 'zoom_out_map';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-apps::before {
+    content: 'apps';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-back::before {
+    content: 'arrow_back';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-downward::before {
+    content: 'arrow_downward';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down::before {
+    content: 'arrow_drop_down';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down-circle::before {
+    content: 'arrow_drop_down_circle';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-up::before {
+    content: 'arrow_drop_up';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-forward::before {
+    content: 'arrow_forward';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-upward::before {
+    content: 'arrow_upward';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cancel::before {
+    content: 'cancel';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check::before {
+    content: 'check';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-left::before {
+    content: 'chevron_left';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-right::before {
+    content: 'chevron_right';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-close::before {
+    content: 'close';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-less::before {
+    content: 'expand_less';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-more::before {
+    content: 'expand_more';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-first-page::before {
+    content: 'first_page';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen::before {
+    content: 'fullscreen';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen-exit::before {
+    content: 'fullscreen_exit';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-last-page::before {
+    content: 'last_page';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-menu::before {
+    content: 'menu';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-horiz::before {
+    content: 'more_horiz';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-vert::before {
+    content: 'more_vert';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-refresh::before {
+    content: 'refresh';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-left::before {
+    content: 'subdirectory_arrow_left';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-right::before {
+    content: 'subdirectory_arrow_right';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adb::before {
+    content: 'adb';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat::before {
+    content: 'airline_seat_flat';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat-angled::before {
+    content: 'airline_seat_flat_angled';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-individual-suite::before {
+    content: 'airline_seat_individual_suite';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-extra::before {
+    content: 'airline_seat_legroom_extra';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-normal::before {
+    content: 'airline_seat_legroom_normal';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-reduced::before {
+    content: 'airline_seat_legroom_reduced';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-extra::before {
+    content: 'airline_seat_recline_extra';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-normal::before {
+    content: 'airline_seat_recline_normal';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-audio::before {
+    content: 'bluetooth_audio';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-confirmation-number::before {
+    content: 'confirmation_number';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-disc-full::before {
+    content: 'disc_full';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb::before {
+    content: 'do_not_disturb';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-alt::before {
+    content: 'do_not_disturb_alt';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-off::before {
+    content: 'do_not_disturb_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-on::before {
+    content: 'do_not_disturb_on';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drive-eta::before {
+    content: 'drive_eta';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-enhanced-encryption::before {
+    content: 'enhanced_encryption';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-available::before {
+    content: 'event_available';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-busy::before {
+    content: 'event_busy';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-note::before {
+    content: 'event_note';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-special::before {
+    content: 'folder_special';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-live-tv::before {
+    content: 'live_tv';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mms::before {
+    content: 'mms';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more::before {
+    content: 'more';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-check::before {
+    content: 'network_check';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-locked::before {
+    content: 'network_locked';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-no-encryption::before {
+    content: 'no_encryption';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ondemand-video::before {
+    content: 'ondemand_video';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-personal-video::before {
+    content: 'personal_video';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-bluetooth-speaker::before {
+    content: 'phone_bluetooth_speaker';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-forwarded::before {
+    content: 'phone_forwarded';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-in-talk::before {
+    content: 'phone_in_talk';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-locked::before {
+    content: 'phone_locked';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-missed::before {
+    content: 'phone_missed';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-paused::before {
+    content: 'phone_paused';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power::before {
+    content: 'power';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-priority-high::before {
+    content: 'priority_high';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sd-card::before {
+    content: 'sd_card';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card-alert::before {
+    content: 'sim_card_alert';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms::before {
+    content: 'sms';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms-failed::before {
+    content: 'sms_failed';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync::before {
+    content: 'sync';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-disabled::before {
+    content: 'sync_disabled';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-problem::before {
+    content: 'sync_problem';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-system-update::before {
+    content: 'system_update';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tap-and-play::before {
+    content: 'tap_and_play';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-time-to-leave::before {
+    content: 'time_to_leave';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vibration::before {
+    content: 'vibration';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-voice-chat::before {
+    content: 'voice_chat';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vpn-lock::before {
+    content: 'vpn_lock';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wc::before {
+    content: 'wc';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi::before {
+    content: 'wifi';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ac-unit::before {
+    content: 'ac_unit';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airport-shuttle::before {
+    content: 'airport_shuttle';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-all-inclusive::before {
+    content: 'all_inclusive';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beach-access::before {
+    content: 'beach_access';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-business-center::before {
+    content: 'business_center';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-casino::before {
+    content: 'casino';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-care::before {
+    content: 'child_care';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-friendly::before {
+    content: 'child_friendly';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fitness-center::before {
+    content: 'fitness_center';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-free-breakfast::before {
+    content: 'free_breakfast';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-golf-course::before {
+    content: 'golf_course';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hot-tub::before {
+    content: 'hot_tub';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-kitchen::before {
+    content: 'kitchen';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pool::before {
+    content: 'pool';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-room-service::before {
+    content: 'room_service';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rv-hookup::before {
+    content: 'rv_hookup';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoke-free::before {
+    content: 'smoke_free';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoking-rooms::before {
+    content: 'smoking_rooms';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-spa::before {
+    content: 'spa';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cake::before {
+    content: 'cake';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-domain::before {
+    content: 'domain';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group::before {
+    content: 'group';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group-add::before {
+    content: 'group_add';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-city::before {
+    content: 'location_city';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood::before {
+    content: 'mood';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood-bad::before {
+    content: 'mood_bad';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications::before {
+    content: 'notifications';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-active::before {
+    content: 'notifications_active';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-none::before {
+    content: 'notifications_none';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-off::before {
+    content: 'notifications_off';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-paused::before {
+    content: 'notifications_paused';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pages::before {
+    content: 'pages';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-party-mode::before {
+    content: 'party_mode';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people::before {
+    content: 'people';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people-outline::before {
+    content: 'people_outline';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person::before {
+    content: 'person';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-add::before {
+    content: 'person_add';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-outline::before {
+    content: 'person_outline';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-plus-one::before {
+    content: 'plus_one';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-poll::before {
+    content: 'poll';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-public::before {
+    content: 'public';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-school::before {
+    content: 'school';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-dissatisfied::before {
+    content: 'sentiment_dissatisfied';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-neutral::before {
+    content: 'sentiment_neutral';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-satisfied::before {
+    content: 'sentiment_satisfied';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-dissatisfied::before {
+    content: 'sentiment_very_dissatisfied';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-satisfied::before {
+    content: 'sentiment_very_satisfied';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-share::before {
+    content: 'share';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-whatshot::before {
+    content: 'whatshot';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box::before {
+    content: 'check_box';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box-outline-blank::before {
+    content: 'check_box_outline_blank';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-indeterminate-check-box::before {
+    content: 'indeterminate_check_box';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-checked::before {
+    content: 'radio_button_checked';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-unchecked::before {
+    content: 'radio_button_unchecked';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star::before {
+    content: 'star';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-border::before {
+    content: 'star_border';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-half::before {
+    content: 'star_half';
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:66 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Roboto Regular'), local('Roboto-Regular'), url("fonts/roboto/Roboto-Regular.ttf") format('truetype');
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:74 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    src: local('Roboto Light'), local('Roboto-Light'), url("fonts/roboto/Roboto-Light.ttf") format('truetype');
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:83 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: normal;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url("fonts/roboto/Roboto-Medium.ttf") format('truetype');
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:92 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url("fonts/roboto/Roboto-Bold.ttf") format('truetype');
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:101 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: italic;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url("fonts/roboto/Roboto-Italic.ttf") format('truetype');
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:112 */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url("fonts/MaterialIcons-Regular.ttf") format('truetype');
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Component.scss:121 */
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #111;
+    color: var(--color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Indicator.scss:1 */
+.x-indicator span {
+    transition: background-color 0.25s ease-out, width 0.1s ease-out, height 0.1s ease-out;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/list/TreeItem.scss:1 */
+.x-gridcell.x-treelist-item {
+    border: none;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:10 */
+.x-button-fab .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+    color: #222;
+    color: var(--accent-foreground-color);
+    display: flex;
+    width: 56px;
+    height: 56px;
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:23 */
+.x-button-fab .x-ripple {
+    background-color: #222;
+    background-color: var(--accent-foreground-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:27 */
+.x-button-fab.x-hovered .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:31 */
+.x-keyboard-mode .x-button-fab.x-focused .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:35 */
+.x-big .x-button-fab {
+    border-radius: 50%;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:39 */
+.x-button-fab .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:44 */
+.x-button-fab.x-pressing .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.21), 2px 2px 6px 0 rgba(0, 0, 0, 0.18);
+    z-index: 3;
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:46 */
+.x-button-fab.x-pressing .x-inner-el .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:55 */
+.x-docked-top .x-has-badge .x-badge-el {
+    top: -8px;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Button.scss:61 */
+.x-has-badge .x-badge-el {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Toolbar.scss:3 */
+.x-toolbar .x-body-el {
+    overflow: visible;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Toolbar.scss:8 */
+.x-toolbar .x-title {
+    transition: 0.25s padding ease-out;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:3 */
+.x-panelheader .x-field {
+    background-color: transparent;
+    border-bottom-color: rgba(255, 255, 255, 0.38);
+    border-bottom-color: var(--reverse-disabled-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:7 */
+.x-panelheader .x-field .x-label-el {
+    color: #ff9800;
+    color: var(--accent-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:11 */
+.x-panelheader .x-field.x-focused {
+    border-bottom-color: #ff9800;
+    border-bottom-color: var(--accent-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:17 */
+.x-panelheader .x-input .x-cleartrigger .x-icon-el {
+    color: #fff;
+    color: var(--base-foreground-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:22 */
+.x-panelheader .x-input .x-input-el {
+    -webkit-text-fill-color: #fff;
+    -webkit-text-fill-color: var(--base-foreground-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:28 */
+.x-panelheader .x-toggleslider.x-on {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/Panel.scss:32 */
+.x-panelheader .x-toggleslider.x-on .x-thumb:after {
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/dataview/ItemHeader.scss:2 */
+.x-itemheader.x-pinned {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 3;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/dataview/SimpleListItem.scss:1 */
+.x-listitem-disclosure .x-icon-el {
+    transition: background-color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/dataview/IndexBar.scss:1 */
+.x-indexbar-indicator {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:4 */
+.x-datepanel .x-datepanel-footer {
+    box-shadow: none;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:7 */
+.x-datepanel .x-datepanel-footer .x-button {
+    text-transform: uppercase;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:12 */
+.x-datepanel .x-datepanelview {
+    background-color: #fff;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:17 */
+.x-datepanel .x-header .x-cell.x-weekend:first-child,
+.x-datepanel .x-header .x-cell.x-weekend:last-child {
+    color: #2196f3;
+    color: var(--base-color);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:21 */
+.x-datepanel .x-header .x-cell.x-weekend .x-inner {
+    background-color: #eee;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-bottom: 0;
+    padding-bottom: 4px;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:31 */
+.x-datepanel .x-body tr .x-cell.x-weekend .x-inner {
+    /* We want weekend cells not to have border radius */
+    border-radius: 0;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:37 */
+.x-datepanel .x-body .x-cell.x-today .x-inner:after {
+    border-radius: 50px;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:42 */
+.x-datepanel .x-body .x-cell.x-special-date .x-inner:before,
+.x-datepanel .x-body .x-cell.x-disabled-day .x-inner:before,
+.x-datepanel .x-body .x-cell.x-selected .x-inner:before {
+    border-radius: 50px;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:47 */
+.x-datepanel .x-body .x-cell.x-next-month {
+    pointer-events: none;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:50 */
+.x-datepanel .x-body .x-cell.x-next-month .x-inner {
+    color: transparent !important;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:55 */
+.x-datepanel .x-body .x-cell.x-next-month.x-special-date .x-inner:before,
+.x-datepanel .x-body .x-cell.x-next-month.x-disabled-day .x-inner:before {
+    background-color: #fff;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:63 */
+.x-datepanel .x-body tr:first-child .x-cell.x-weekend .x-inner {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:70 */
+.x-datepanel .x-body tr:first-child .x-cell.x-weekend.x-selected .x-inner:before {
+    margin-top: 4px;
+    padding-top: 0;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/panel/Date.scss:76 */
+.x-datepanel .x-body tr:last-child .x-cell.x-weekend .x-inner {
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/slider/Slider.scss:2 */
+.x-slider .x-thumb {
+    transition: transform 0.15s ease-out;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/slider/Slider.scss:5 */
+.x-slider .x-thumb:active {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/slider/Slider.scss:9 */
+.x-slider .x-thumb.x-disabled:active {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/slider/Toggle.scss:1 */
+.x-toggleslider .x-thumb {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/slider/Toggle.scss:4 */
+.x-toggleslider .x-thumb:active {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/tab/Bar.scss:2 */
+.x-tabbar-body-el {
+    overflow: visible;
+    padding: 0;
+}
+/* /Users/space/buildAgent/work/8cc7421dd8da164c/staging/modern/theme-material/sass/src/tab/Bar.scss:6 */
+.x-big .x-tabbar-body-el {
+    padding: 0;
+}

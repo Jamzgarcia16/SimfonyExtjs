@@ -1,0 +1,38 @@
+sf2jamz_URLPrueba:
+    path:     /URLPrueba
+    defaults: { _controller: sf2jamzBundle:clientes:URLPrueba }
+
+sf2jamz_URLPrueba2:
+    path:     /URLPrueba2
+    defaults: { _controller: sf2jamzBundle:clientes:URLPrueba2 }    
+
+sf2jamz_URLListe2Registro:
+    path:     /URLListe2Registro
+    defaults: { _controller: sf2jamzBundle:clientes:URLListe2Registro }
+
+sf2jamz_URLListeRegistro2:
+    path:     /URLListeRegistro2
+    defaults: { _controller: sf2jamzBundle:clientes:URLListeRegistro2 }
+
+sf2jamz_URLURLGuadarFormulario:
+    path:     /URLGuadarFormulario
+    defaults: { _controller: sf2jamzBundle:clientes:URLGuadarFormulario }
+    
+sf2jamz_URLPrueba:
+    path:     /URLParking
+    defaults: { _controller: sf2jamzBundle:Default:URLParking } 
+
+sf2jamz_URLURLform_parqueadero:
+    path:     /URLform_parqueadero
+    defaults: { _controller: sf2jamzBundle:Default:URLform_parqueadero }
+
+sf2jamz_URLURLFormularioParqueadero:
+    path:     /URLFormularioParqueadero
+    defaults: { _controller: sf2jamzBundle:Default:URLFormularioParqueadero }
+
+sf2jamz_URLtraer_datos_1:
+    path:     /URLtraer_datos_1
+    defaults: { _controller: sf2jamzBundle:Default:URLtraer_datos_1 }        
+
+
+
