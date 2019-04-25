@@ -1,6 +1,6 @@
 // Formulario de Prueba Funcionando ok.
 //No Tocar. 15/04/2019. # Trabajar con copias en otras URLS, chao de aca.
-// implementar metodo de borrar y actualizar en dos botones independientes llamanados 2 urls diferentes.
+// implementar metodo de borrar y actualizar en dos botones independientes llamanados 2 urls diferentes. #pendiente!!
 
 
 var Text_CC_Cliente = crear_text_field(fieldLabel="CC Cliente", id="IDText_CC_Cliente", labelWidth=110, width=250, 
