@@ -8,12 +8,12 @@ var Text_CC_Cliente = crear_text_field(fieldLabel="CC Cliente", id="IDText_CC_Cl
                                               vtype="solo_numeros_especios_guines", 
                                               inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
                                               enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
-                                              inputType='text', emptyText='');
+                                              inputType='text', emptyText='');   
 
 var Text_Nombre_Cliente = crear_text_field(fieldLabel="Nombre_Cliente", id="IDText_Nombre_Cliente", labelWidth=110, width=250, 
                                               margin='20 0 0 20', value= "", hidden=false, disabled=false, allowBlank=false, readOnly=false, 
                                               vtype="", 
-                                              inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
+                                           inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
                                               enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
                                               inputType='text', emptyText='Pepito');
 
@@ -73,14 +73,48 @@ var Text_Base = crear_text_field(fieldLabel="Base", id="IDText_Base", labelWidth
                                               enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
                                               inputType='text', emptyText=''); 
 
+var Text_Numero_Inverso = crear_text_field(fieldLabel="Numero Inverso", id="IDText_Numero_Inverso", labelWidth=110, width=250, 
+                                              margin='20 0 0 20', value= "", hidden=false, disabled=false, allowBlank=false, readOnly=false, 
+                                              vtype="solo_numeros_especios_guines", 
+                                              inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
+                                              enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
+                                              inputType='text', emptyText=''); 
+
 
 
 var panel_cliente = crear_panel(titulo="Formulario", id="IDpanel_cliente", width="100%", 
-                                                        height=600, margin='0 0 0 0', layout_type="column",  
-                                                        items=[Text_CC_Cliente,Text_Nombre_Cliente,Text_Correo_Cliente,Text_Contrasena,Text_Num_1,Text_Num_2,Text_Valor_Venta,Text_Numero_P,Text_Base], bodyStyle ="", border=false, autoScroll=false, hidden=false, 
+                                                        height=240, margin='0 0 0 0', layout_type="column",  
+                                                        items=[Text_CC_Cliente,Text_Nombre_Cliente,Text_Correo_Cliente,Text_Contrasena,Text_Num_1,Text_Num_2,Text_Valor_Venta,Text_Numero_P,Text_Base,Text_Numero_Inverso], bodyStyle ="", border=false, autoScroll=false, hidden=false, 
                                                         disabled=false, html="", region="", collapsed=false, collapsible=false, titleAlign="left", 
                                                         array_eventos=[], layout_align=null, layout_pack=null);
  
+var Text_Capital = crear_text_field(fieldLabel="Capital", id="IDTtext_Capital", labelWidth=110, width=250, 
+                                              margin='20 0 0 20', value= "", hidden=false, disabled=false, allowBlank=false, readOnly=false, 
+                                              vtype="solo_numeros_especios_guines", 
+                                              inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
+                                              enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
+                                              inputType='text', emptyText='');   
+
+var Text_Tasa_De_Interes = crear_text_field(fieldLabel="Tasa de Interes", id="IDText_Tasa_De_Interes", labelWidth=110, width=250, 
+                                              margin='20 0 0 20', value= "", hidden=false, disabled=false, allowBlank=false, readOnly=false, 
+                                              vtype="solo_numeros_especios_guines", 
+                                              inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
+                                              enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
+                                              inputType='text', emptyText='');   
+
+var Text_Tiempo = crear_text_field(fieldLabel="Tiempo_Credito", id="IDText_Tiempo", labelWidth=110, width=250, 
+                                              margin='20 0 0 20', value= "", hidden=false, disabled=false, allowBlank=false, readOnly=false, 
+                                              vtype="solo_numeros_especios_guines", 
+                                              inputAttrTpl="center", labelAlign="right", labelPad=15, maxLength=50, minLength=1, 
+                                              enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
+                                              inputType='text', emptyText=''); 
+
+var Panel_Simulador_Credito = crear_panel(titulo="Simulador de Credito", id="IDPanel_Simulador_Credito", width="100%", 
+                                                        height=300, margin='0 0 0 0', layout_type="column",  
+                                                        items=[Text_Capital,Text_Tasa_De_Interes,Text_Tiempo], bodyStyle ="", border=false, autoScroll=false, hidden=false, 
+                                                        disabled=false, html="", region="", collapsed=false, collapsible=false, titleAlign="left", 
+                                                        array_eventos=[], layout_align=null, layout_pack=null);
+
 
 
 ////////////////////////////////////////////////////////////////////
@@ -95,7 +129,7 @@ var formulario1 = Ext.create('Ext.form.Panel', {
     autoScroll: true,
     bodyPadding: 20,
     defaultType: 'textfield',
-    items: [ panel_cliente ],
+    items: [ panel_cliente,Panel_Simulador_Credito ],
     buttons: [{
         text: 'Guardar',
         handler: function(  ) {
