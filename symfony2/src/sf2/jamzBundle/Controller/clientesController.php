@@ -183,48 +183,135 @@ $parametros_formulario = $request->request;
     'num_2' => $request->get('name_idtext_num_2'),
     'valor_venta' => $request->get('name_idtext_valor_venta'),
     'numero_p' => $request->get('name_idtext_numero_p'),
-    'base' => $request->get('name_idtext_base')   
-    
+    'base' => $request->get('name_idtext_base'),
+    'numero_inverso' => $request->get('name_idtext_numero_inverso')
      );
 
-  $numero_p = $cliente["numero_p"]; 
-  #var_dump($numero_p); exit;
-  $base = $cliente["base"]; 
-  #var_dump($base); exit;
+    /* Algoritmo Simulador de Credito */
+    $credito = array ( 
+    'capital' => $request->get('name_idttext_capital'),
+    'tasa' => $request->get('name_idtext_tasa_de_interes'),
+    'tiempo_credito' => $request->get('name_idtext_tiempo')
+     );
 
-  $potencia = pow($numero_p, $base); 
-  #var_dump($potencia); exit;
+    $capital = 0.0;
+    $tasa = 0.0;
+    $tiempo_credito = 0 ;
+    $interes = 0.0;
+    $monto = 0.0;
+    // Entrada de Datos
+    $capital = $credito["capital"]; 
+    #var_dump($capital); exit;
+    $tasa = $credito["tasa"]; 
+    #var_dump($tasa); exit;
+    $tiempo_credito = $credito["tiempo_credito"]; 
+    #var_dump($tiempo_credito); exit;
 
-  $cc_cliente = $cliente["cc_cliente"]; 
-  #var_dump($cc_cliente); exit;
+    //Proceso
+    $monto = pow((1 + $tasa / 100), $tiempo_credito) * $capital;
+    #var_dump($monto); exit;
+    $interes = $monto - $capital;
+    #var_dump($interes); exit;
 
-  /* Algoritmo Operaciones Basicas */
-  $numero1 = $cliente["num_1"];
-  #var_dump($numero1); exit;
-  $numero2 = $cliente["num_2"];
-  #var_dump($numero2); exit;
+    #var_dump($credito); exit;
 
-  /* Algoritmo IVA y Precio de venta mas IVA */
-  $valor_venta = $cliente["valor_venta"];
-  #var_dump($valor_venta); exit;
+    $resultado_credito = array(
+        'monto' => $monto,
+        'interes' => $interes
+    );
+    #var_dump($resultado_credito); exit;
 
-  $valor_venta;
+     ################################### FIN ALGORITMO SIMULADOR DE CREDITO #########################################################################
 
-  $float_valor_venta = floatval($valor_venta); /*  funcion para convertir de string a float   */
-  #var_dump($float_valor_venta); exit;
 
-  $iva = $float_valor_venta * 0.19;
-  #var_dump($iva); exit;
-  $precio_venta = $float_valor_venta + $iva;
-  #var_dump($precio_venta); exit;
 
-  $resultado = $numero1 + $numero2;
-  #var_dump($resultado); exit;
-  $resultado2 = $numero1*$numero2;
+    /* Algoritmo Potencia de un numero */  
+    $numero_p = $cliente["numero_p"]; 
+    #var_dump($numero_p); exit;
+    $base = $cliente["base"]; 
+    #var_dump($base); exit;
 
-  $cc_cliente = $cliente["cc_cliente"];
+    $potencia = pow($numero_p, $base); 
+    #var_dump($potencia); exit;
 
-  #var_dump($cliente); exit;
+    /* Algoritmo Numero Inverso  */
+    $n = $cliente["numero_inverso"];
+    #var_dump($n); exit;  
+
+    $tmp = $n;
+    #var_dump($tmp); exit;
+    $r = $n % 10;
+    #var_dump($r); exit;
+    $n = (int)($n / 10);
+    #var_dump($n); exit;
+    $ni = $r * 10;
+    #var_dump($ni); exit;
+
+    $r = $n % 10;
+    #var_dump($r); exit;
+    $n = (int)($n / 10);
+    #var_dump($n); exit;
+    $ni = ($ni + $r) * 10;
+    #var_dump($ni); exit;
+
+    $r = $n % 10;
+    #var_dump($r); exit;
+    $n = (int)($n / 10);
+    #var_dump($n); exit;
+    $ni = ($ni + $r) * 10;
+    #var_dump($ni); exit;
+
+    $r = $n % 10;
+    #var_dump($r); exit;
+    $n = (int)($n / 10);
+    #var_dump($n); exit;
+    $ni = ($ni + $r) * 10;
+    #var_dump($ni); exit;
+
+    $r = $n % 10;
+    #var_dump($r); exit;
+    $n = (int)($n / 10);
+    #var_dump($n); exit;
+    $ni = ($ni + $r) * 10;
+    #var_dump($ni); exit;
+
+    $ni = $ni + $n;
+    #var_dump($ni); exit;
+    $n = $tmp;
+    #var_dump($n); exit;
+    ################################### FIN ALGORITMO NUMERO INVERSO #########################################################################
+
+    $cc_cliente = $cliente["cc_cliente"]; 
+    #var_dump($cc_cliente); exit;
+
+    /* Algoritmo Operaciones Basicas */
+    $numero1 = $cliente["num_1"];
+    #var_dump($numero1); exit;
+    $numero2 = $cliente["num_2"];
+    #var_dump($numero2); exit;
+
+    /* Algoritmo IVA y Precio de venta mas IVA */
+    $valor_venta = $cliente["valor_venta"];
+    #var_dump($valor_venta); exit;
+
+    $valor_venta;
+
+    $float_valor_venta = floatval($valor_venta); /*  funcion para convertir de string a float   */
+    #var_dump($float_valor_venta); exit;
+
+    $iva = $float_valor_venta * 0.19;
+    #var_dump($iva); exit;
+    $precio_venta = $float_valor_venta + $iva;
+    #var_dump($precio_venta); exit;
+
+    $resultado = $numero1 + $numero2;
+    #var_dump($resultado); exit;
+    $resultado2 = $numero1*$numero2;
+
+    $cc_cliente = $cliente["cc_cliente"];
+    #var_dump($cc_cliente); exit;
+
+    #var_dump($cliente); exit;
 
     $sql = SQLDefault::buscar_cod_cliente($cc_cliente);
     #var_dump($sql); exit;     # cod cliente
@@ -246,7 +333,6 @@ $parametros_formulario = $request->request;
     $cc_cliente = intval($cc_cliente);
     #var_dump($cc_cliente); exit;
 
-    
     # evaluamos el tipo de variable
     //echo "\$cc_cliente==$cc_cliente; tipo : " . gettype ($cc_cliente) . "<br />\n";
     
@@ -256,8 +342,11 @@ $parametros_formulario = $request->request;
     # si el codigo del cliente es vacio creamos un nuevo cliente
     
     $new_cod_cliente = $this->ejecutar_SQLs_devuelve_un_valorAction($sql2, "cod_cliente");
-    
     #var_dump($new_cod_cliente); exit;
+
+    $sql3 = SQLDefault::SQL_crear_simulador_credito($credito,$resultado_credito,$new_cod_cliente,$cc_cliente);
+    #var_dump($sql3); exit;
+    $this->ejecutar_SQL($sql3);    
     
    }else{
 
@@ -273,6 +362,11 @@ $parametros_formulario = $request->request;
     # obtenemos el codigo del cliente       
     #var_dump($codigo_cliente); exit;
 
+    $sql2 = SQLDefault::buscar_cod_cliente_credito($cc_cliente);
+    #var_dump($sql2); exit;     # cod cliente
+
+    $cod_cliente_credito = $this->ejecutar_SQLs_devuelve_un_valorAction($sql2, "cliente_cod");
+    #var_dump($cod_cliente_credito); exit;
     # se almacena el valor de la suma realizada al inicio del programa
     $resultado; # variable resultado con valor de la suma cargado ok
     #var_dump($resultado); exit;
@@ -288,13 +382,19 @@ $parametros_formulario = $request->request;
     #var_dump($precio_venta); exit;
 
     intval($numero_p);
+    #var_dump($numero_p); exit;
     $base;    
+    #var_dump($base); exit;
     $potencia;
     #var_dump($potencia); exit;
 
-    $sql2 = SQLDefault::SQL_actualizar_cliente($cliente,$cc_cliente,$codigo_cliente,$resultado,$resultado2,$float_valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia);  
+    # valor de numero inverso
+    $n;
+    #var_dump($n); exit;
+
+    $sql3 = SQLDefault::SQL_actualizar_cliente($cliente,$cc_cliente,$codigo_cliente,$resultado,$resultado2,$float_valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia,$n);  
     #var_dump($sql2); exit;
-    $act_cliente = $this->ejecutar_SQL($sql2);
+    $act_cliente = $this->ejecutar_SQL($sql3);
     #var_dump($act_cliente); exit;
     $resultado;
     #var_dump($resultado); exit;
@@ -309,6 +409,26 @@ $parametros_formulario = $request->request;
 
     $potencia;
     #var_dump($potencia); exit;
+
+    $n;
+    #var_dump($n); exit;
+    $cod_cliente_credito;
+    #var_dump($cod_cliente_credito); exit;
+
+    $sql4 = SQLDefault::SQL_actualizar_credito($credito,$resultado_credito,$cod_cliente_credito,$cc_cliente);  
+    #var_dump($sql4); exit;
+    $act_credito = $this->ejecutar_SQL($sql4);
+    #var_dump($act_credito); exit;
+
+    $fila = $act_credito[0];
+    #var_dump($fila); exit;
+    $new_cod_cliente_credito = $fila["cliente_cod"];
+    #var_dump($new_cod_cliente_credito); exit;
+
+    $sql5 = SQLDefault::SQL_facturar_cliente_por_credito($new_cod_cliente_credito);
+    var_dump($sql5); exit;
+    $this->ejecutar_SQL($sql4);    
+    
 
     #$error = " variable  $$cliente vacia!!  ";
     #var_dump($error); exit;

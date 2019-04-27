@@ -24,6 +24,13 @@ class SQLDefaultController extends Controller
 
   return $sql;
 }
+  public static function buscar_cod_cliente_credito($documento){
+  $sql="SELECT cliente_cod FROM simulador_credito WHERE cc_cliente = '".$documento."' ";
+
+  return $sql;
+}
+
+
 
 public static function SQL_crear_cliente($parametros){
     $sql ="
@@ -51,7 +58,38 @@ public static function SQL_crear_cliente($parametros){
     return $sql;  
 }
 
-public static function SQL_actualizar_cliente($parametros,$cc_client,$cod_client,$result,$result2,$valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia){
+public static function SQL_crear_simulador_credito($parametros_credito,$resultado_credito,$new_cod_cliente,$cc_cliente){
+    $sql ="
+    INSERT INTO simulador_credito 
+    (  
+       capital, 
+       tasa_de_interes,
+       tiempo,
+       interes,
+       monto,
+       cliente_cod,
+       cc_cliente
+       ) 
+    VALUES 
+      (
+      '".$parametros_credito["capital"]."',
+      '".$parametros_credito["tasa"]."',
+      ".$parametros_credito["tiempo_credito"].",
+      ".$resultado_credito["monto"].",
+      ".$resultado_credito["interes"].",
+      $new_cod_cliente,
+      $cc_cliente
+
+
+    )";
+    return $sql;  
+}
+
+
+
+
+
+public static function SQL_actualizar_cliente($parametros,$cc_client,$cod_client,$result,$result2,$valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia,$inverso){
 $sql=" 
 UPDATE clientes
 SET
@@ -69,15 +107,37 @@ iva = $iva,
 precio_venta = $precio_venta,
 numero_p = $numero_p,
 base = $base,
-potencia = $potencia
+potencia = $potencia,
+numero_inverso = $inverso
 WHERE
-cc_cliente =  '".$cc_client."' RETURNING cod_cliente, resultado,resultado2,valor_venta,iva,precio_venta,numero_p,base,potencia";
+cc_cliente =  '".$cc_client."' RETURNING cod_cliente, resultado,resultado2,valor_venta,iva,precio_venta,numero_p,base,potencia,numero_inverso";
   return $sql;
 }
 
-    public static function SQL_listar_categoria(){
+public static function SQL_actualizar_credito($parametros_credito,$resultado_credito,$cod_client,$cc_cliente){
+$sql=" 
+UPDATE simulador_credito
+SET
+capital = ".$parametros_credito["capital"].",
+tasa_de_interes = ".$parametros_credito["tasa"].",
+tiempo = ".$parametros_credito["tiempo_credito"].",
+interes = ".$resultado_credito["interes"].",
+monto = ".$resultado_credito["monto"]." ,
+cliente_cod = $cod_client,
+cc_cliente = $cc_cliente
+WHERE
+cc_cliente =  '".$cc_cliente."' RETURNING cliente_cod,cc_cliente,monto,interes ";
+  return $sql;
+}
 
+public static function SQL_facturar_cliente_por_credito($codigo_cliente_credito){
+$sql="SELECT nombre_cliente,correo_cliente,cod_cliente,capital,tasa_de_interes,tiempo,monto from clientes c LEFT JOIN simulador_credito sc ON c.cod_cliente=sc.cliente_cod WHERE cliente_cod=$codigo_cliente_credito";
+return $sql;
   }
+
+public static function SQL_listar_categoria(){
+
+  }  
 
 public static function SQL_insert_usuario($user){
   $sql = "INSERT INTO 
