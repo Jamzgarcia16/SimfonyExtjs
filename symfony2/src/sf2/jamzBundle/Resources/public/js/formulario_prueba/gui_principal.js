@@ -80,8 +80,6 @@ var Text_Numero_Inverso = crear_text_field(fieldLabel="Numero Inverso", id="IDTe
                                               enableKeyEvents=false, enforceMaxLength=true, tooltip="", array_eventos=[], labelSeparator=':', 
                                               inputType='text', emptyText=''); 
 
-
-
 var panel_cliente = crear_panel(titulo="Formulario", id="IDpanel_cliente", width="100%", 
                                                         height=240, margin='0 0 0 0', layout_type="column",  
                                                         items=[Text_CC_Cliente,Text_Nombre_Cliente,Text_Correo_Cliente,Text_Contrasena,Text_Num_1,Text_Num_2,Text_Valor_Venta,Text_Numero_P,Text_Base,Text_Numero_Inverso], bodyStyle ="", border=false, autoScroll=false, hidden=false, 
