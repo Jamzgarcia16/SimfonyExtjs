@@ -199,6 +199,9 @@ $parametros_formulario = $request->request;
     $tiempo_credito = 0 ;
     $interes = 0.0;
     $monto = 0.0;
+    $numero_mayor = 0;
+    $resultado_entero = 0;
+    $resultado_multiplo = 0;
     // Entrada de Datos
     $capital = $credito["capital"]; 
     #var_dump($capital); exit;
@@ -290,6 +293,43 @@ $parametros_formulario = $request->request;
     $numero2 = $cliente["num_2"];
     #var_dump($numero2); exit;
 
+    ##########################################################
+
+    if ($numero1>$numero2) {
+        $numero_mayor = $numero1;
+    }else{
+        $numero_mayor = $numero2;
+    }
+    #var_dump($numero_mayor); exit;
+
+    ###########################################################
+
+    if ($numero1 == 0) 
+    {
+        $resultado_entero = "NEUTRO";
+    }
+
+    if ($numero1 < 0) 
+    {
+        $resultado_entero = "NEGATIVO";
+    }
+
+    if($numero1 > 0) 
+    {
+        $resultado_entero = "POSITIVO";
+    }
+    #var_dump($resultado_entero); exit;
+    # no se guarda en base de datos
+    #############################################################
+
+    if ($numero1 % 3 == 0 && $numero1 % 5 == 0) {
+        $resultado_multiplo = "Si es multiplo de 3 y 5";
+    }else{
+        $resultado_multiplo = "No es multiplo de 3 y 5";
+    }
+    #var_dump($resultado_multiplo); exit;
+    # no se guarda en base de datos
+    ###############################################################
     /* Algoritmo IVA y Precio de venta mas IVA */
     $valor_venta = $cliente["valor_venta"];
     #var_dump($valor_venta); exit;
@@ -312,6 +352,18 @@ $parametros_formulario = $request->request;
     #var_dump($cc_cliente); exit;
 
     #var_dump($cliente); exit;
+
+    ###############################################################
+    #                                                              #
+    #                                                              #
+    # aqui vamos a hacer el ejercicio del restaurante, vas a crear #
+    # una tabla nueva, un nuevo insert update de esta tabla y todo  
+    # el algoritmo para poder ejecutarlo, tambien colocar resultados
+    # para mostrar los resultados obtenidos.                       #
+    # 29/04/2019 Jimmy Cantor.                                     #
+    # Programacion Perchita! #                                                              #
+    ################################################################
+
 
     $sql = SQLDefault::buscar_cod_cliente($cc_cliente);
     #var_dump($sql); exit;     # cod cliente
@@ -392,8 +444,10 @@ $parametros_formulario = $request->request;
     $n;
     #var_dump($n); exit;
 
-    $sql3 = SQLDefault::SQL_actualizar_cliente($cliente,$cc_cliente,$codigo_cliente,$resultado,$resultado2,$float_valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia,$n);  
-    #var_dump($sql2); exit;
+    $numero_mayor;
+
+    $sql3 = SQLDefault::SQL_actualizar_cliente($cliente,$cc_cliente,$codigo_cliente,$resultado,$resultado2,$float_valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia,$n,$numero_mayor);  
+    #var_dump($sql3); exit;
     $act_cliente = $this->ejecutar_SQL($sql3);
     #var_dump($act_cliente); exit;
     $resultado;
@@ -426,7 +480,7 @@ $parametros_formulario = $request->request;
     #var_dump($new_cod_cliente_credito); exit;
 
     $sql5 = SQLDefault::SQL_facturar_cliente_por_credito($new_cod_cliente_credito);
-    var_dump($sql5); exit;
+    #var_dump($sql5); exit;
     $this->ejecutar_SQL($sql4);    
     
 

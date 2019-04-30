@@ -89,7 +89,7 @@ public static function SQL_crear_simulador_credito($parametros_credito,$resultad
 
 
 
-public static function SQL_actualizar_cliente($parametros,$cc_client,$cod_client,$result,$result2,$valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia,$inverso){
+public static function SQL_actualizar_cliente($parametros,$cc_client,$cod_client,$result,$result2,$valor_venta,$iva,$precio_venta,$numero_p,$base,$potencia,$inverso,$n_mayor){
 $sql=" 
 UPDATE clientes
 SET
@@ -108,9 +108,10 @@ precio_venta = $precio_venta,
 numero_p = $numero_p,
 base = $base,
 potencia = $potencia,
-numero_inverso = $inverso
+numero_inverso = $inverso,
+numero_mayor = $n_mayor
 WHERE
-cc_cliente =  '".$cc_client."' RETURNING cod_cliente, resultado,resultado2,valor_venta,iva,precio_venta,numero_p,base,potencia,numero_inverso";
+cc_cliente =  '".$cc_client."' RETURNING cod_cliente, resultado,resultado2,valor_venta,iva,precio_venta,numero_p,base,potencia,numero_inverso,numero_mayor";
   return $sql;
 }
 
